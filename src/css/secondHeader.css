@@ -1,0 +1,7 @@
+.secondHeaderLink{
+    font-size: 14px;
+    color: black;
+}
+.secondHeaderLink:hover{
+    color: #fca218;
+}

@@ -1,0 +1,26 @@
+.thirdHeader{
+    background-color: #10d4d4;
+    color: white;
+    margin-top: 20px;
+    padding: 8px 0px;
+}
+.thirdHeaderNav{
+    justify-content: start;
+}
+.thirdExam{
+    display: block;
+    font-size: 18px;
+    padding-top: 7px;
+    margin-right: 50px;
+}
+@media screen and (max-width: 1200px) {
+    .thirdHeaderNav{
+        justify-content: center;
+    }
+    .thirdExam{
+        display: none;
+        /* font-size: 18px;
+        padding-top: 7px;
+        margin-right: 50px; */
+    }
+}

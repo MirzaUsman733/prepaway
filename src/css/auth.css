@@ -1,0 +1,41 @@
+.authFormBtn{
+    width: 100%;
+    padding: 15px 0px;
+    font-size: 18px;
+    color: white;
+}
+.authFormInput{
+    padding: 13px 10px;
+}
+.authLastDiv{
+    /* background-color: #E9F2FE; */
+    background-color: #E2E3E5;
+    min-height: 90vh;
+}
+.authLastDivFirstHeading{
+    color: #0B57C9;
+    font-weight: bolder;
+    font-size: 50px;
+}
+.authLastDivLink1{
+    font-size: 18px;
+}
+.lastDivImg{
+    margin-top: 20px;
+    width: 80%;
+}
+.lastDivBtn{
+    width: 85%;
+    padding: 10px 20px;
+    font-size: 18px;
+}
+.formBtnIcon1{
+    padding-left: 80px;
+}
+.formBtnIcon2{
+    padding-left: 52px;
+}
+.formBtnIcon3{
+    padding-left: 52px;
+}
+

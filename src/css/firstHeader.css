@@ -1,0 +1,29 @@
+.firstHeaderInput{
+    padding: 15px 10px;
+    
+}
+.firstHeaderForm{
+    width: 47%;
+}
+.FirstHeaderSubmitBtn{
+    /* background-color: #3EB53E; */
+    /* color: white; */
+    margin-left: -50px;
+    width: 30%;
+}
+.firstHeaderTxt{
+    display: inline-block;
+}
+.firstHeaderTxt:hover{
+    color: #fca218;
+}
+@media screen and (max-width: 1200px) {
+    .firstHeaderTxt{
+        display: none;
+    }
+}
+@media screen and (max-width: 992px) {
+    .firstHeaderTxt{
+        display: block;
+    }
+}

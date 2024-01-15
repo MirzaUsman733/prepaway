@@ -1,0 +1,25 @@
+.homeHeadingTxt1{
+    font-size: 3.5rem;
+    margin-bottom: 28px;
+    font-family: Montserrat,sans-serif;
+    font-weight: 600;
+    letter-spacing: -3.5px;
+    line-height: 1.08;
+    height: 130px;
+}
+.homeSpan1{
+    font-size: 1.5rem;
+    margin: auto;
+}
+.firstComponent{
+    background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.5)), url('https://www.examtopics.com/assets/images/et/etbackground1-min.jpg');
+    /* background-image: url('https://www.examtopics.com/assets/images/et/etbackground1-min.jpg'); */
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    max-width: 100vw;
+    min-height: 100vh;
+    padding-top: 150px;
+    /* color: 	#aaa11f; */
+    color: 	#f5f5dc;
+}

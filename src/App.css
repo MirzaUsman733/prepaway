@@ -1,0 +1,30 @@
+@import "./css/bootstrap.css";
+@import "./css/firstHeader.css";
+@import "./css/secondHeader.css";
+@import "./css/thirdHeader.css";
+@import "./css/homeFirstComponent.css";
+@import "./css/homeSlider.css";
+@import "./css/homeTopCourses.css";
+@import "./css/topTrainingCourses.css";
+@import "./css/homeFooter.css";
+@import "./css/auth.css";
+@import "./css/modal.css";
+@import "./css/cartHeader.css";
+body{
+  background-color: #F8F9FA;
+}
+.greenColor{
+  color: #CCED00;
+}
+.blueColor{
+  color: #31D2F2!important;
+}
+.iconColor{
+  color: #0B5ED7;
+}
+/* Link{
+  color: #3a1c04a4;
+}
+a:hover{
+  color: #fca218;
+} */

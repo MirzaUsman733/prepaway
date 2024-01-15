@@ -1,0 +1,15 @@
+.cartHeader{
+    background-color: #E2E3E5;
+    margin: auto;
+    min-height: 65vh;
+}
+.cartImg{
+    width: 100%;
+    max-height: 75%;
+    /* margin-top: 20px; */
+
+}
+.lastWeekDiv{
+    min-height: 200px;
+    background-color: #E2E3E5;
+}

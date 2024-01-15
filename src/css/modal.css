@@ -1,0 +1,20 @@
+.modal-title{
+    margin: auto;
+    padding-left: 200px;
+}
+.modalCols{
+    min-height: 450px;
+    background-color: #6b636341;
+}
+.modal-body{
+    background-color: #FBFCFF;
+}
+.modalStep{
+    padding: 12px 30px;
+    width: 60%;
+}
+.modalPara{
+    margin: 0px 45px;
+    font-size: 19px;
+    opacity: 0.7;
+}

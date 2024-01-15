@@ -1,0 +1,41 @@
+.homeCertification{
+    padding-top: 50px;
+    min-height: 80vh;
+    background-color: #E5E5E5;
+}
+.homeCertificationSliderContent{
+    min-height: 200px;
+    width: 250px;
+    background-color: white;
+    box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.1);
+    margin: auto;
+    cursor: pointer;
+    padding-top: 30px;
+
+}
+div.slick-slider .slick-dots li button:before {
+    color: red;
+  }
+  
+  div.slick-slider .slick-prev,
+  div.slick-slider .slick-next {
+    margin-top: -20px;
+    height: 40px;
+    width: 40px;
+    border-radius: 25px;
+    background-color: rgba(0, 0, 0, 0.082);
+    color: #ff0000 !important;
+    z-index: 1;
+  }
+  div.slick-slider .slick-prev:hover,
+  div.slick-slider .slick-next:hover {
+   
+    height: 40px;
+    width: 40px;
+    background-color: #E22625;
+    /* background-color: ; */
+    color: red !important;
+  }
+  .homeCertificationImg{
+    margin: auto;
+  }
